@@ -8,8 +8,7 @@ namespace Mp_task_1
     {
 		static void Main(string[] args)
 		{
-			string[] unnecessary_words = 
-				{"about", "above", "after", "at","between",
+			string[] unnecessary_words ={"about", "above", "after", "at","between",
 				"for", "from", "in", "in front of", "inside", "in spite of", "instead of", "into",
 				"like", "near", "of", "off", "on", "onto", "out", "outside", "over", "past", "regarding",
 				"to", "toward", "under", "underneath", "until", "up",
